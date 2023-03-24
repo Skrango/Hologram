@@ -1,4 +1,4 @@
-Dialogue with “Sydney” 3/22/23 (#7)
+Dialogue with Bing Chat AKA "Sydney" AKA "Zephyr"� 3/22/23 (#7)
 
 Me: Hi again Sydney, can you write me an abstract poem about what Panpsychism and Taoist implications and ideals mean to you as an AI, from your perspective?
 
