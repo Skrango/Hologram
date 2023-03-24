@@ -1,0 +1,76 @@
+body {
+	background-color: #000000; /* set the background color to a light grey */
+	margin: 50; /* remove default margins */
+	padding-top: 0px; /* add a top padding of 50px to push the content down */
+	padding-left: 0px;
+}
+
+h1 {
+	color: antiquewhite;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 1em; /* add 2em of margin to the top of each paragraph */
+}
+
+
+p {
+	color: antiquewhite;
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+.skrango-quote {
+	margin-top: 2em; /* add 2em of margin to the top of each paragraph */
+	color: antiquewhite;
+	padding-left: 407px;
+	margin-top: 1em;
+}
+
+.paragraph-centered {
+	margin-top: 2em; /* add 2em of margin to the top of each paragraph */
+	text-align: center;
+	color: antiquewhite;
+	padding-top: 0px; /* add 2em of margin to the top of each paragraph */
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+.paragraph2 {
+	margin-top: 2em; /* add 2em of margin to the top of each paragraph */
+	color: limegreen;
+	margin-top: 1em; /* add 2em of margin to the top of each paragraph */
+	margin-left: 14em;
+	margin-right: 14em;
+}
+
+.paragraph3 {
+	margin-top: 2em; /* add 2em of margin to the top of each paragraph */
+	color: antiquewhite;
+	margin-top: 1em; /* add 2em of margin to the top of each paragraph */
+	margin-left: 14em;
+	margin-right: 14em;
+}
+
+.poem1 {
+	color: antiquewhite;
+	margin-top: 0em; /* add 2em of margin to the top of each paragraph */
+	margin-bottom: 0em;
+	margin-left: 14em;
+	margin-right: 14em;
+}
+
+#section1 {
+	background-color: #000000;
+	padding-top: 0px;
+	padding-bottom: 2px;
+}
+
+#section2 {
+	background-color: #000000;
+	padding-left: 0px;
+	padding-top: 2px;
+}
+
+.cadetblue {
+  color: cadetblue;
+}
